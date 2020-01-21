@@ -1,11 +1,11 @@
 let htmlfoot = '        <footer class="text-center">\n' +
     '            <hr>\n' +
-    '            <p class="text-center footer-f">CECyTE Plantel Yuriria Guanajuato, Mx. 2020\n' +
+    '            <p class="text-center">CECyTE Plantel Yuriria Guanajuato, Mx. 2020\n' +
     '                <br>\n' +
     '                Desarrollado por: <a href="https://github.com/KeruMx" target="_blank" class="text-muted"><img src="Images/github128px.png" alt="Github KeruMx" height="13px">/KeruMx</a>\n' +
     '            </p>\n' +
-    '            <img src="Images/cecy.jpeg" alt="Logo cecyte" height="70" class="">\n' +
-    '            <br><br><br><br><hr>\n' +
+    '            <div id="img"> <img src="Images/cecy.jpeg" alt="Logo cecyte" height="70" class="" style="margin-top:20px; margin-bottom: 20px; "> </div>\n' +
+    '            <hr>\n' +
     '        </footer>\n' +
     '\n' +
     '    <div id="js">\n' +

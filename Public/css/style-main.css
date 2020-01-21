@@ -9,7 +9,7 @@ body{
 
 footer{
     margin-top:auto;
-    background-color: #f0f0ff;
+    /*background-color: #f0f0ff;*/
 }
 
 footer hr{
@@ -25,5 +25,5 @@ footer p{
     right: 0;
     bottom: 0;
     left: 0;
-    padding: 1rem;
+    padding-top:20px;
 }
