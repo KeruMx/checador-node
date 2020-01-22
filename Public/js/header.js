@@ -11,7 +11,7 @@ let htmlnav= "<nav class=\"navbar navbar-expand-lg navbar-light\" style=\"backgr
     "            <li class=\"nav-item active\">\n" +
     "            </li>\n" +
     "        </ul>\n" +
-    "        <a href=\"#\"><img src=\"node_modules/bootstrap-icons/icons/person.svg\" width=\"35\" height=\"35\"></a>\n" +
+    "        <a href=\"/Checador/Public/admin/index.html\"><img src=\"node_modules/bootstrap-icons/icons/person.svg\" width=\"35\" height=\"35\"></a>\n" +
     "    </div>\n" +
     "</nav>"
     document.addEventListener('DOMContentLoaded', async function () {
